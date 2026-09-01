@@ -51,7 +51,9 @@ The main objective of this project is to develop an intelligent APMC market anal
 - Saving trained models for future deployment
 
 ---
-
+Visualization
+Model Accuracy
+![Model Accuracy](accuracy_graph.png)
 # Dataset
 
 The input dataset used in this project is:
@@ -1026,9 +1028,6 @@ The system automatically performs data preprocessing, feature engineering, class
 
 By extending the system with historical commodity-price datasets and optimization techniques such as AIS, CSA and PSO, the framework can evolve into a complete intelligent agricultural market decision-support system capable of assisting farmers, researchers and agricultural-market administrators.
 
-Visualization
-Model Accuracy
-![Model Accuracy](accuracy_graph.png)
 
 Author
 
